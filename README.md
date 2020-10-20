@@ -1,2 +1,2 @@
 # com.nero.springboot.dubbo
-springboo继承dubbo
+springboo集成dubbo
